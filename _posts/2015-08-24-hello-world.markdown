@@ -2,6 +2,7 @@
 published: true
 title: Hello world
 layout: post
+tags: [Tag]
 ---
 This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/sympl-digital/sympl-digital.github.io](http://github.com/sympl-digital/sympl-digital.github.io). Be nice. Give credit. Share, don't steal :)
 
